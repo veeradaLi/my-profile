@@ -1,0 +1,59 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	color: red;
+}
+
+h2{
+	font-family: 'Alata', sans-serif;
+	color:#323232;
+}
+
+#chevre{color:blue;
+
+}
+.text_green {
+	color:green;
+}
+.sun, .cloud, .sun, .rain{color:gray;
+}
+
+.rain {
+	color:blue;
+}
+.moon{
+	color:blue;
+}
+.i_like, .i_d_like {
+	 background-color: black;
+	 width: 40%;
+	 text-align: center;
+	 border-radius: 8px;
+	 padding:30px;
+
+}
+
+.my_name{
+	color: blue;
+}
+
+.i_like{
+	margin:0 auto;
+}
+.i_d_like{
+	margin: 50px auto 0 auto;
+	background-image:url(image/whitewater.jpg);
+	background-repeat: no-repeat;
+	background-size:70%;
+	background-position: center;
+	padding:30px;
+	margin-top:10px;
+
+
+}
+
+.circle 
+

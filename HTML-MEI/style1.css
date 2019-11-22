@@ -1,0 +1,54 @@
+body{
+	font-family: 'Calistoga', cursive;
+	color-profile: blue;
+}
+
+
+
+.container{
+	width:60%;
+	height:900px;
+	background: orange;
+	padding:20px;
+	margin:30px auto;
+}
+
+.cartel_presentation{
+	position:relative;
+	line-height: 10px;
+	margin:20px auto;
+	padding-left: 17%;	
+}
+
+.cartel-action, .what_i_did{
+	margin:30px auto; 
+	padding-right: 20%;
+	padding-left: 17%;
+	background-position: center;
+	text-align: center;
+	background-color: gray;
+	border-radius: 20px;
+}
+
+.text{
+	display:block;
+	position:relative;
+	top:25%;
+	text-align: center;
+}
+
+.circle{
+	background:gray;
+	height:20px;
+	width:20px;
+	padding:20px;
+	border-radius:20px;
+	margin:30px auto;
+}
+.circle1{
+	background-position: 100px;
+	height:30px;
+	width:30px;
+	padding-left:20px;
+}
+
